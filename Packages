@@ -1,0 +1,14 @@
+Package: cmake
+Version: 3.15.5
+Architecture: amd64
+Maintainer: cmake@cmake.org
+Installed-Size: 37840
+Filename: ./cmake-3.15.5-Linux-x86_64.deb
+Size: 11635930
+MD5sum: 31bd9691f7c00a07e77cf5b3247981b1
+SHA1: 0df9f7a67e92ab02175a73b07c812979d6e8dd4e
+SHA256: a98ef0ba3a05dd6f8c7e9c46a040c16cc2659b78bd7bc73e2e3f4865726d4444
+Section: devel
+Priority: optional
+Description: CMake is a build tool
+
